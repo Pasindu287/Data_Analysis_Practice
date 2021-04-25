@@ -1,0 +1,502 @@
+,SHOP_ID,CATEGORY,NAME_x,RATING,AVG_PRICE,REVIEW_COUNT,REVIEW_ID,LOCAL_GUIDE,NAME_y,REVIEW_STARS,REVIEW,SENTIMENT
+0,100055,Ice cream shop,Lucky kiri ice cream parlour,1.5,1000,2,300371,600330,Tharanga iTd,2,Leading innovative milk processing organization with high quality dairy products since 1991.,negative
+1,100055,Ice cream shop,Lucky kiri ice cream parlour,1.5,1000,2,300372,NOOB,Ashika Nanayakkara,1,,negative
+2,100072,Vegetarian restaurant,SARAVANA BAWAN,2.4,1000,7,300523,FALSE,Stephen Reginold,1,Very very poor service. Though they are supplying tasty food~ some bloody old waiters  here is only caring of those who are looking rich and from whom they can get tips.,negative
+3,100072,Vegetarian restaurant,SARAVANA BAWAN,2.4,1000,7,300524,FALSE,Santosh Kumar Garg,1,This restaurant has no relation to the world famous Sarwana Bhawan chain. It is a small road side Non AC dhawa type restaurant with a different name of sarwana BAWAN( H Removed from Bhawan) to differentiate it  from world famous Sarwana  ,negative
+4,100072,Vegetarian restaurant,SARAVANA BAWAN,2.4,1000,7,300525,FALSE,Anjali Garg,1,This restaurant is very very bad. It is. It is NOT part of the Sarvana Bhavan chain. It's real name is Sarvana Bawan (no H). It's worse than a road side outlet~ unhygienic and really bad food. It's also 40-50 minutes by car from the colombo city.,negative
+5,100072,Vegetarian restaurant,SARAVANA BAWAN,2.4,1000,7,300526,FALSE,Gowri Shankar S,5,Very Good Food,positive
+9,100014,Cafe,Balindo Cafe,3.5,1000,4,300094,FALSE,Jade Senaratne,2,Its not a fancy location~ but it is a good place to catch a quick bite.,negative
+10,100014,Cafe,Balindo Cafe,3.5,1000,4,300095,FALSE,MassSpreadz David,5,Good Place,positive
+12,100014,Cafe,Balindo Cafe,3.5,1000,4,300097,600080,Jeewaka Hettige,4,,positive
+13,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300253,600227,Pasan Henadeera,4,Great place for the price,positive
+14,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300254,600228,Dinitha Lakmina Wickramasinghe.,4,(Translated by Google) Shot eka danna maru pot eka    (Original) Shot eka danna maru pot eka  ,positive
+15,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300255,600229,Kavidu Jayalath,4,Calm quiet place. Good food. Yet it was little bit salty more than the average. Staff could have more sense of the customers in providing necessities.,positive
+16,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300256,600230,SLLRDC Environment,4,Cozy. Nice view,positive
+17,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300257,600231,Ashoka Jayasundara,4,Nice place to dine and drink ~~~nice lake view,positive
+18,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300258,600232,Sanjaya Thalpavila,4,Nice place for burger   experience in Colombo.,positive
+19,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300259,600233,HBSS Karunarathna,5,Good portion on the submarine and burger. satisfies with the price,positive
+20,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300260,600234,Menaka Sanjeewa,4,Good Service ..!,positive
+21,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300261,600235,Pubudu Tippalagama,5,holy smokes!! they are back. i am happy to say these guys have come back to their standards. great meaty subs as i remember from a while back. will purchase again. wishing you guys the best!!!,positive
+22,100034,Family restaurant,Burger Land Family Restaurant,3.7,1000,342,300262,600236,Madushan Amarasinghe,5,Good place to grab a quick bite or a complete meal. Friendly staff. Food tastes really good. The view of the lake from inside the restaurant is superb.,positive
+23,100016,Restaurant,Barnes Garden Caf ,3.7,1000,3,300108,600091,Charlotte Faye,5,Had a lovely breakfast here. It was simple and delicious and the coffee was strong :D The staff are very sweet. I loved the garden seating. Nice location as there aren't many eateries tucked back on this road .,positive
+24,100016,Restaurant,Barnes Garden Caf ,3.7,1000,3,300109,600092,Ashan Pathirana,1,Visited the place with my kids and there was nothing available on the menu that was advertised on the entrance board and the only good thing was the courteous lady who welcomed us but the gent seated inside was just terrible. We had to walk out eventually.,negative
+25,100016,Restaurant,Barnes Garden Caf ,3.7,1000,3,300110,FALSE,Amber Stone,5,Beautiful courtyard cafe and great hospitality!,positive
+26,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300540,600491,Darshana Atapattu,5,Good food wiith taste,positive
+27,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300541,600492,muditha madusanka,5,Superb,positive
+28,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300542,600493,Sarath Thenuwara,4,For testy vegetarian food,positive
+29,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300543,600494,Sameera Peiris,5,Delicious,positive
+30,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300544,600495,Ahsan Dux,5,I love this place because we can have hot hot ulundu vade and it's awsome.,positive
+31,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300545,600496,Janaka Susantha,5,Reasonable price and nice service,positive
+33,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300547,600498,Shaheem Shukry,5,This place only serves vegetarian food. Lunch breakfast dinner available Take away available Uber eats available Cash only Good to have vegetarian meals over here,positive
+34,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300548,600499,Mohamed Nazahim,1,Not worth for the money. All the grave is water baris itly is made out of old rice no smell of uldu at all  no chattney for wade better to check the kitchen as well,negative
+35,100075,Restaurant,Saravana Bawan Vegetarian Restaurant,3.8,500,256,300549,600500,kirushanth,5,Saravana bawan vegetarian hotel no word to say because what a taste and healthy food wooow,positive
+36,100007,Coffee shop,The Coffee Bean Tea Leaf,3.8,1000,9,300057,600053,Nidhya Logeswaran,1,visited the one Galle face branch which has an offer displayed saying Buy one get one free. asked the staff what was on offer. they said if I but a cappuccino or latte~ I get a chocolate fudge slice at 50% off. I asked what was free then.  ,negative
+37,100007,Coffee shop,The Coffee Bean Tea Leaf,3.8,1000,9,300058,600054,bassith mahmood,4,The coffee was good~ a bit sweeter than other stores. Good service.,positive
+38,100007,Coffee shop,The Coffee Bean Tea Leaf,3.8,1000,9,300059,600055,Hunters Photography,5,Superb place    Delicious foods  ,positive
+39,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300179,600159,Indika Wijesooriya,5,Good food for the good prize!,positive
+40,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300180,600160,Dilendra Ratnayake,5,loved the place and the food pizza with bacon was really good loved it had lots of bacon and value for money highly recommended,positive
+41,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300181,600161,Kasun Siriwardena,5,Yummy foods with true value.,positive
+42,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300182,600162,Waruna Gamlath,4,Good service. Tasty Pizza.  ,positive
+44,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300184,600164,Mike Walton,4,Made fantastically welcome in Fort Station cafeteria Everyone looked after us,positive
+45,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300185,600165,Colin Campbell-Cooper,4,Good range of fresh food and friendly staff.,positive
+46,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300186,600166,Stephanie Wheaton,4,We stopped here for lunch after the walking tour. We had the prawn curry~ pork black bean curry~ and a variety of other dishes. Prices are reasonable~ servings are for one~ but I would suggest trying many dishes and sharing. They also serve pizza and burgers if you want a more traditional meal.,positive
+47,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300187,600167,Dilmini Perera,5,Roast Paan~ Pol Sambol and Mushrooms were delicious. (I'm Vegetarian) but this place is famous for its crabs. Not as expensive as Ministry of Crabs but..still expensive. Don't order too much because portions are supposed to be shared. :),positive
+48,100025,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300188,600168,Mark Carey,1,This place was an awful tourist trap.  Very expensive and really really bad.,negative
+50,100032,Fast food restaurant,Street Burger,3.9,1000,23,300241,600220,Arshad Saeed,5,Superb nice place~ as for covid now the rush Street all the restaurants are closed except of Street Burger,positive
+51,100032,Fast food restaurant,Street Burger,3.9,1000,23,300242,600221,Max Yohan,4,5 stars for the burgers~ 4 stars for the price.,positive
+52,100032,Fast food restaurant,Street Burger,3.9,1000,23,300243,600222,Kaveen Bandara,4,Great tasting burgers with generous portion sizes. Loved the cheesy fries too.,positive
+53,100032,Fast food restaurant,Street Burger,3.9,1000,23,300244,600223,thakshila de silva,5,One of the best places to have burgers. It s really worth for the price and really tasty. At the same time thank you for the efficient service~ because of the that we didn t had to starve so long.,positive
+54,100033,Restaurant,Star King Burgers,3.9,1000,7,300246,600224,Nifal Nizar,5,A brand new place to enjoy burgers and submarine. Had a chicken submarine and it was awesome and filling. Prices are also normal and value for money.,positive
+56,100033,Restaurant,Star King Burgers,3.9,1000,7,300248,FALSE,Tasty Heaven,1,I ordered sweets it s not fresh.please give customer's to fresh ones.,negative
+57,100033,Restaurant,Star King Burgers,3.9,1000,7,300249,FALSE,Isthiak Imtiaz,5,Worthy for money recommended star king submarine,positive
+58,100033,Restaurant,Star King Burgers,3.9,1000,7,300250,600226,WASIM AKRAM SIDDEEK,5,Good foods,positive
+60,100033,Restaurant,Star King Burgers,3.9,1000,7,300252,NOOB,Mohamed Rismeer,5,,positive
+62,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300122,600104,vinuchithra chithrasena,5,Great place for a quick snack and coffee,positive
+63,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300123,600105,Noel shamith,5,Best at Cakes  ,positive
+64,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300124,600106,Mewantha Wijerathne,5,Best place to visit,positive
+65,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300125,600107,Mohamed Mafaz,5,Fresh buns and short eats available~ cakes are very reasonable price.,positive
+66,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300126,600108,Yusry Al Ayad,5,Good,positive
+67,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300127,600109,rushika desilva,4,Expensive in unwanted way,positive
+68,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300128,600110,Fahadh Nazir,4,Fresh cakes,positive
+69,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45,300129,600111,kind_companion Rikaz,2,Not a comfortable place,negative
+71,100028,Fast food restaurant,Burger King Kotahena,3.9,1000,194,300209,600189,clinton christy,2,No good environment,negative
+72,100028,Fast food restaurant,Burger King Kotahena,3.9,1000,194,300210,600190,Gaya,1,Absolutely a disgusting spot!,negative
+73,100028,Fast food restaurant,Burger King Kotahena,3.9,1000,194,300211,600191,Nadun Hemachandra,1,No delivery option available.,negative
+74,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300503,600460,Nitheesram Rajes,4,Vegetarian Take Away shop in Dehiwala near Willam Junction. Now they are open in morning also. Reasonable prices and good food items. Small place and has 4/5 stools there~ so not suitable to go there and eat.,positive
+75,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300504,600461,kabithvajann sarathchanthiran,5,Acceptable prices and neat food items available here.Vegetable foods are extremely awesome here,positive
+76,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300505,600462,Fuzuly Yuzuf,4,Good,positive
+78,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300507,600464,Huzni Mohamed,4,As always Balaji Vegan's stands upto there name.. The ghee thosai was super crisp at the ends~ perfect level of ghee not too over powering. The food which made my day  with a lick of my fingers.,positive
+79,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300508,600465,Thanu Sris,4,Free Delivery Services  Also Available   Pure Vegetarian Restaurant,positive
+80,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300509,600466,Abdul Rahman,5,Not like the kandy balaji. Bad~~~~,positive
+81,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300510,600467,Huzni Mohamed,4,As always Balaji Vegan's stands upto there name.. The ghee thosai was super crisp at the ends~ perfect level of ghee not too over powering. The food which made my day  with a lick of my fingers.,positive
+82,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300511,600468,Nitheesram Rajes,4,Vegetarian Take Away shop in Dehiwala near Willam Junction. Now they are open in morning also. Reasonable prices and good food items. Small place and has 4/5 stools there~ so not suitable to go there and eat.,positive
+83,100070,Vegetarian restaurant,Balaji Vegetarian Restaurants,3.9,1000,19,300512,600469,kabithvajann sarathchanthiran,5,Acceptable prices and neat food items available here.Vegetable foods are extremely awesome here,positive
+84,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300493,600450,Indika Wijesooriya,5,Good food for the good prize!,positive
+85,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300494,600451,Dilendra Ratnayake,5,loved the place and the food pizza with bacon was really good loved it had lots of bacon and value for money highly recommended,positive
+86,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300495,600452,Kasun Siriwardena,5,Yummy foods with true value.,positive
+87,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300496,600453,Waruna Gamlath,4,Good service. Tasty Pizza.  ,positive
+89,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300498,600455,Mike Walton,4,Made fantastically welcome in Fort Station cafeteria Everyone looked after us,positive
+90,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300499,600456,Colin Campbell-Cooper,4,Good range of fresh food and friendly staff.,positive
+91,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300500,600457,Stephanie Wheaton,4,We stopped here for lunch after the walking tour. We had the prawn curry~ pork black bean curry~ and a variety of other dishes. Prices are reasonable~ servings are for one~ but I would suggest trying many dishes and sharing. They also serve pizza and burgers if you want a more traditional meal.,positive
+92,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300501,600458,Dilmini Perera,5,Roast Paan~ Pol Sambol and Mushrooms were delicious. (I'm Vegetarian) but this place is famous for its crabs. Not as expensive as Ministry of Crabs but..still expensive. Don't order too much because portions are supposed to be shared. :),positive
+93,100069,Restaurant,Harpo's Colombo Fort Cafe,3.9,2000,281,300502,600459,Mark Carey,1,This place was an awful tourist trap.  Very expensive and really really bad.,negative
+94,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300098,600081,hadi hussain,4,very nice and beautiful place~ variety of tea~ coffee and snakes available. You can choose to have a seat inside the air conditioned hall or outside. Atmosphere is very good staff is very cooprative~ you can buy tea and coffe for your friends in paper bags and in tin containers.,positive
+95,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300099,600082,Mohamed Afsal,5,Maldivian coffee shop,positive
+96,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300100,600083,Wuz Good,4,Nice place to chill with a bunch of friends~  needs more upgrading though,positive
+97,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300101,600084,Abdullah Jamaal,2,Coffee & Tea with hedika,negative
+98,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300102,600085,Mr. Ahmed Sharaah,4,Was fond of this place,positive
+99,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300103,600086,Ismail Shifau,5,Nice place to have a cup of coffee,positive
+100,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300104,600087,mohamed naveel,5,Good for coffee  ,positive
+101,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300105,600088,Ahmed Rasheed,4,Good place for Coffee.,positive
+102,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47,300106,600089,Ina Malik,2,Maldivian cafe in Dhehivela. Hedhika & lavazza coffee,negative
+104,100011,Coffee shop,Colombus cafe,4.0,1000,1,300084,600072,ibrahim shareef,4,,positive
+105,100062,Vegetarian restaurant,Sree Kumaranass Cafe,4.0,1000,1,300433,600391,shan hishan,4,It's a pure vegetarian hotel,positive
+106,100041,Ice cream shop,Gelato Ice-cream,4.0,1000,1,300292,600264,Thivantha Harischandra,4,When you hangout in One Galle Face and want to enjoy an ice cream~ this is the place. This ice cream is popular frozen dessert of Italian one. Cusomer care is fine here.,positive
+107,100054,Ice cream shop,Chandra's Ice Cream Factory,4.0,500,34,300368,600328,AMI Montessori House of Children,5,Good,positive
+108,100054,Ice cream shop,Chandra's Ice Cream Factory,4.0,500,34,300369,600329,Murthala Shafiul,5,Nice for testing,positive
+110,100076,Vegetarian restaurant,Royal Vege,4.0,1000,2,300551,600502,Yogam Pratheeban,5,They are beginning to serve vegetarian foods. Food is ok with reasonable price but pest control should be maintained ~ customer service need to improve,positive
+112,100049,Ice cream shop,Il Gelato,4.0,1000,66,300336,600302,Indika Kulatunge,1,Just tasted a rum n raisin ice cream. It was the worst ever I had in Sri lanka but not the first gelato experience. I feel its quite old n expired stuff out there. So think twice before buying at odel ward place. I simply left the Ice-cream at the table n left. Who ever manages this place~ please look into this for gelato sake.,negative
+113,100049,Ice cream shop,Il Gelato,4.0,1000,66,300337,600303,Alice Hsu,5,(Translated by Google) Many choices~ delicious and not expensive  (Original)          ,positive
+114,100049,Ice cream shop,Il Gelato,4.0,1000,66,300338,600304,Ishan Zahir,4,Lots of flavour & choice of ice cream...,positive
+115,100049,Ice cream shop,Il Gelato,4.0,1000,66,300339,600305,Mewantha Wijerathne,5,Amazing place~ with the best ice cream. Brilliant place for kids,positive
+116,100049,Ice cream shop,Il Gelato,4.0,1000,66,300340,600306,Vachintha Piyadasa,5,Located within the premises of Odel. They serves the best Italian gelato ice cream in Colombo with a range of mouth watering flavors. Recently they also have introduced a couple of new additions. Staff extends a friendly service and the  ,positive
+117,100049,Ice cream shop,Il Gelato,4.0,1000,66,300341,600307,Nivanka Shiromal,4,Good Place  !!,positive
+120,100049,Ice cream shop,Il Gelato,4.0,1000,66,300344,600310,Ruzaiq Fahim,2,Price too high!,negative
+121,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300373,600331,Lemuel Elangovan,5,Very good place to enjoy with family and friends!,positive
+123,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300375,600333,Chanaka Gunasekera,5,Great service and good quality Icecream. Reasonable prices and many varieties of flavours.,positive
+124,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300376,600334,Sivagajan Arudchelvam,5,Best ice cream shop good quality and best price,positive
+125,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300377,600335,danuja kaluarachchi,5,Delicious  ,positive
+128,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300380,600338,Ahlan M,5,Rio ice cream also best,positive
+129,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300381,600339,chirastha caldera,4,Beat ice cream in colombo,positive
+130,100056,Ice cream shop,Rio Ice Cream,4.1,500,4169,300382,600340,Harendra Nanayakkara,5,Excellent condition and experience... More varieties of great taste..,positive
+131,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300213,600192,Nuwan Jayathilaka,4,Good place for breakfast and lunch~ small but this is common in an outlet like in a busy area like liberty. Located at the third floor of the liberty plaza building. Space is not enough for a large crowd. Seating along the windows spacing  ,positive
+132,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300214,600193,Dumidu kasun Rajakaruna,4,Best burger place in Kollpity,positive
+133,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300215,600194,mihitha kumara,4,Good staff~ clam place,positive
+134,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300216,600195,Kanishka Dananjaya,5,Loved the burgurs,positive
+135,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300217,600196,mufaddal huzaifa,5,Great,positive
+136,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300218,600197,Chirantha Liyanapathirana,5,Tasty . love it,positive
+137,100029,Fast food restaurant,Burger King - Liberty Plaza,4.1,500,505,300219,600198,Himashiyan Gayanjana,5,Friendly & accurate customer service. For breakfast~I think that place was not bad. My favorite foodies are chilli chicken stick and chicken nuggets. That was perfect spicy   one. Also they give us to discount coupons.,positive
+139,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300424,600382,Tune on String,4,Good for a veg lover,positive
+140,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300425,600383,shimal mohamed,1,Staff's are not clean,negative
+141,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300426,600384,sg Fashion,5,Wattala,positive
+142,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300427,600385,Ashfak Ifhan,5,So cozy!,positive
+143,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300428,600386,Shakeeb Shuaib,4,A good place for vegetarian food in pettah,positive
+144,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300429,600387,1969ab Sudusingha,5,GOOD PLACE FOR EAT VEGETARIAN FOODS AND CLEAN AND TIDY..,positive
+145,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300430,600388,AZEEM MOHAMED,5,Non vegetarian specialist foods available here,positive
+146,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300431,600389,Zainul Abdeen,5,Veg food available at a nominal price and very tasty.,positive
+147,100061,Vegetarian restaurant,Golden Cafe,4.1,1000,204,300432,600390,Buddhika dananjaya,5,Good shop to vegetarian people~good customer service and best foods,positive
+148,100035,Cafe,Burgers Hut,4.1,1000,428,300263,600237,Dulitha chiran,5,One of the best place to try burgers late night.  They only have pepsi and 7up for beverages.  But they had plenty of burger range.  Parking and dinning area available. Highly recommended for burger lovers.  Tip - Chicken Corden Bleu Burger,positive
+149,100035,Cafe,Burgers Hut,4.1,1000,428,300264,600238,Dinusha Pathirana,5,Cheap and great food,positive
+151,100035,Cafe,Burgers Hut,4.1,1000,428,300266,600240,Mohinudeen Bin Mohammad,5,Taste good,positive
+152,100035,Cafe,Burgers Hut,4.1,1000,428,300267,600241,Chanaka Weragoda,5,Delicious and fast cheap burgers and subs.,positive
+153,100035,Cafe,Burgers Hut,4.1,1000,428,300268,600242,Mohammed Rifaideen,4,If you wish to enjoy chicken shawarma~ Burgers Hut is best choice for delicious shawarma. Price is reasonable and the staffs were so friendly.,positive
+154,100035,Cafe,Burgers Hut,4.1,1000,428,300269,600243,Mohamed Naleem,4,Good halal shop for fast food lovers. The food we bought here were very tasty. Shop could be a bit more bigger,positive
+155,100035,Cafe,Burgers Hut,4.1,1000,428,300270,600244,Zameer Hussain Padmi,5,Yummy,positive
+156,100035,Cafe,Burgers Hut,4.1,1000,428,300271,600245,Rameez Basheer,2,Not bad and not good,negative
+157,100035,Cafe,Burgers Hut,4.1,1000,428,300272,600246,Terry Ringleader,5,Tasty foods,positive
+158,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300220,600199,Kavikeshara Wickramasinghe,5,Same as another Burger King,positive
+159,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300221,600200,Niwantha Chinthana,4,Superb burger king,positive
+160,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300222,600201,KanIshka Peiris,5,Delicious food,positive
+161,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300223,600202,Dinidu Jayalath,4,Good service,positive
+162,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300224,600203,wishwa madushanka,5,Good staff,positive
+163,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300225,600204,Mohan Mendis,4,Good for quick take away not so healthy snacks,positive
+164,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300226,600205,Meshaun,4,Burgers are okay. Nothing exciting anymore. The ice Milo is really good though.,positive
+166,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300228,600207,Thusara Manujaya,5,Good food even if the prices are increased lately~ chilled vibe and good enough space for a chat and even a meeting.,positive
+167,100030,Fast food restaurant,Burger King - Mt. Lavinia,4.1,1000,1415,300229,600208,Shawn Shiek,1,The lady at the drive through counter took my order and the payment and then told me it would take 10 minutes... Need I say more,negative
+168,100052,Ice cream shop,Frosties,4.1,1000,93,300354,600315,Thala Rajeek,4,Beautiful place,positive
+169,100052,Ice cream shop,Frosties,4.1,1000,93,300355,600316,Malithi Perera,5,So glad we found this place by chance while we were looking for a dessert place around amount Lavinia. We had the milo frost roll and the Ferrero Rochie frost roll. Both were really good!,positive
+170,100052,Ice cream shop,Frosties,4.1,1000,93,300356,600317,Ishan Jayawardena,4,The variety is amazing so is the taste. Average portion size is larger than most other options in the county which is a real value for money. There's a portable aquarium which sits right besides the reception which is a good addition to the  ,positive
+171,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300001,600001,azam hamza,4,But over pricy,positive
+172,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300002,600002,Dimas Prihadi,5,Always love Java Lounge,positive
+173,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300003,600003,Udi Keidar,1,Bad service~ dissapointing coffee and good. Not recommended!!!!,negative
+174,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300004,600004,Charmi Lankeshwari,5,Lovely strawberry cheesecake... N had alot of stuff to eat and take home. Great place to hangout and chill with a friend,positive
+175,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300005,600005,menaka Indunil,5,Grate place to have a refreshment,positive
+176,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300006,600006,Amjad Nazeer,5,Great coffee.,positive
+177,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300007,600007,Viktoriia,4,Cold latte was very good and I enjoyed club sandwiches as well. Brownie cake wasn't fresh though~ so it spoiled the mood a bit.  Staff is very attentive and helpful~ bit prices are higher than I expected. All in all it's a nice coffee shop not far from Colombo railway station.,positive
+178,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300008,600008,Nuwair Nishaam,5,Great place to chill and relax with some good coffee and food,positive
+179,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300009,600009,Kanchana Wijesinghe,5,Best place for coffee in Fort. Love the ambiance and the food,positive
+180,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245,300010,600010,VINOD LAKSHAN,5,Great place to be with loved ones! Love the place!,positive
+181,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300189,600169,Tharaka Samaraweera,5,Good,positive
+182,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300190,600170,harsha senanayake,5,It's still a bit strange review fast-food franchises~ but they are a thing in Sri Lanka. The Burger King in Colpetty has a nice location~ takeaway~ and bigger burgers by popular demand. They have rice now as well. It's a well-run franchise  ,positive
+183,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300191,600171,Roshan Fernando,4,Another burger king for burger lovers.,positive
+184,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300192,600172,Hari Prasath,4,Very friendly staffs,positive
+185,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300193,600173,Dinithra Dissanayake,5,Good for a quick bite. Excellent food. Not much seating space even though it's never been an issue as far as I know. Good to hang out with a bunch of friends and eat too. Food is good but I guess that goes without saying,positive
+186,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300194,600174,PIXLMIN,5,Very good customer service. AMAZING,positive
+187,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300195,600175,Suneth Nadeeshan,4,Like the ice cream cone. It is very taste and less expensive.,positive
+188,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300196,600176,Yoonus Hussain,2,Not worth the price~ burgers are not soo tasty and in my opinion Macdonald's is way better than burger king,negative
+189,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300197,600177,SSD S,4,Reheated food sometimes,positive
+190,100026,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300198,600178,I'm a cheater,2,It's not like before .. food here is now not much good as before ..,negative
+192,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300435,600393,vimukthi kd,4, ,positive
+193,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300436,600394,Mansoor ahamed,2,This a Vegetarian Hotel (small) situated near to the Main Street~ Colombo. Customer care is poor... hotel is have to keep clean more to attract the customers You can have once in your life this shop it's enough for whole time~ Foods just to  ,negative
+194,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300437,600395,Amila Dananjaya De Silva,4,Tasty food for cheap prices.,positive
+195,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300438,600396,nirmal weerasinghe,4,Food is good but place isn t not much tidy... price range also reasonable.,positive
+196,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300439,600397,hasini ishara,5,My favorite tamil food is t Here,positive
+197,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300440,600398,Harshana Jayaratne,4,Delicious food. Ambience needs reconditioning.,positive
+198,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300441,600399,Olinsing Ausher,4,Good quality south indian food for very resonable low rates ~ customer service is also good ~ fresh juce and fruit salads are also available ~ but may be very crowded during lunch hours~  totally vegetarian food only available ~ no parking space,positive
+199,100063,Vegetarian restaurant,Kanthan Saiva Unavaham,4.1,1000,22,300442,600400,Azwin Vickneswaran,5,Best neat Fresh food Vegetables,positive
+200,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300345,600311,Nifal Nizar,5,Brand new place for Delicious Ice Creams in Dehiwela~ which runs by a qualified Chef who makes ice creams in many varieties using his own recipes. Place is specialized for Ice Creams~ but they also serve Fruit Juices and Bubble Tea... Try the Blue Berry and Kit Kat Chocolaty~ its really yummy...,positive
+201,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300346,600312,Dineth Sewwanda,5,The place is a bit crowdy. Icecream are fine.,positive
+202,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300347,600313,Thoha Shafiu,5,,positive
+203,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300348,FALSE,Indika Fernando,5,,positive
+204,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300349,FALSE,Kav A,1,,negative
+205,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300350,NOOB,Mohammed Affan,5,,positive
+206,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300351,NOOB,Ijas Kiyam,5,,positive
+207,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300352,FALSE,Chirani Rajapaksha,1,,negative
+208,100051,Ice cream shop,Ice Cream Gallery,4.1,1000,9,300353,600314,NADISHKA,5,,positive
+209,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300146,600126,Dushan Jayasinghe,5,Good customer service~ the wait is slightly less. Recommended!,positive
+210,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300147,600127,Achuthan Senthilkumaran,4,Service could improve a bit,positive
+211,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300148,600128,Anjana Rangashan,5,As usual best burgers in the town!!,positive
+212,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300149,600129,Damish Samarajeewa,4,Good service,positive
+213,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300150,600130,Kasuni Silva,5,(Translated by Google) In the 21st century~ the company returned to independence when a group of investment companies headed by TPG Capital purchased from Diageo for $ 1.5 billion in 2002. [21] [32] The new owners quickly moved to  ,positive
+214,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300151,600131,Gayan Chinthaka Dharmarathna,5,Nice and clam place,positive
+216,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300153,600133,hasith gunawardene,5,Good customer service.Tasty food,positive
+217,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300154,600134,Rifhaanrbk,2,This will be my last and final visit to a Burger King Outlet. I had the BBQ burger and Milo float . I was observing how my burger was made and they just made for the sake of making it . It didn't taste good at all and wasn't crispy .  The  ,negative
+218,100021,Fast food restaurant,Burger King - Fort,4.1,500,536,300155,600135,                              ,4,Average,positive
+219,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300463,600421,Rithik,4,Food is good,positive
+220,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300464,600422,Tamil paavai EYAZH ISSAI,2,Irresponsible people.. who served the food to us....,negative
+221,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300465,600423,prashanthan News,4,Delicious vegetarian foods...,positive
+223,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300467,600425,guna thusy,5,Dradisnal,positive
+224,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300468,600426,Laa Vasanth,2,I had onion ravdosai which is really roilly and can't eat.,negative
+225,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300469,600427,Lakshan Patrick,5,They have good vegitarian food,positive
+226,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300470,600428,Dinesh Welagedara,4,You would love mouthwatering vege food here.,positive
+227,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300471,600429,K.S. Rajesh,2,Just ok,negative
+228,100066,Vegetarian restaurant,New Saraswati Cafe,4.1,1000,502,300472,600430,Thiagha Rajan,4,Good taste.,positive
+230,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300474,600432,Shehan Marasinghe,5,Great clam place to have a cup of tea in the central city area of Colombo.,positive
+231,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300475,600433,Chandi Gurusinghe,4,Calm place~Tasty food. Price is affordable. Washroom available.,positive
+232,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300476,600434,Anuradha Gajanayaka,5,Very good place for tasty quick bite. They have good lunch as well. Friendly staff and good service. Ambiance is quite relaxing for this kind of place,positive
+234,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300478,600436,Suranga Edirisinghe,4,One of the finest cool places in the Heart of Colombo to have a snack for over more than 3 decades. Best is Pineapple Ghetto and Chocolate Pyramids. The recipes and taste not changed.,positive
+235,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300479,600437,byron Cheong,4,(Translated by Google) Yes~ the environment is beautiful and comfortable  (Original)          ,positive
+236,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300480,600438,Nadeeka Hewamanna,5,Old establishment. Lumprice~ short Eats avaliable. Ample dine Inn space.,positive
+237,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300481,600439,Thivantha Harischandra,5,This is the outlet for Pagoda Tea room / Green Cabin for Pettah area. Place is big and well made and well organized place. Bakery items~ cakes are popular here. Also lunch available. Cozy place. Food is in very good quality and also  ,positive
+238,100067,Restaurant,Pagoda Tea Room,4.1,1000,190,300482,600440,Leoni TV,5,Tea is nice,positive
+240,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300484,600442,Varatharajah Vaseekaran,5,Really great restaurant. The vegetarian options were plenty and there were a lot for non-vegetarian too. The place's atmosphere is great. Reaching the place is a bit tricky~ but overall~ a great place to have meals that are worth the money.,positive
+241,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300485,600443,Thiagha Rajan,4,Very good atmosphere. Tasty food. Good hospitality.,positive
+242,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300486,600444,Benjamin Shawon,4,Very tasty food . Clean and neat place. Good service also. Will be visiting again. Pure vegetarian food.,positive
+243,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300487,600445,Rahal Wimalasiri,5,Good food good ambiance.,positive
+244,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300488,FALSE,Sasiri Rajapaksa,1,This used to be one of my favorite~ but now they have stared going backwards. They have reduced the side dishes~ and also with the latest order i found a piece of hair on the green sambal.  ( 24/09/2020),negative
+245,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300489,600446,Varatharajah Vaseekaran,5,Really great restaurant. The vegetarian options were plenty and there were a lot for non-vegetarian too. The place's atmosphere is great. Reaching the place is a bit tricky~ but overall~ a great place to have meals that are worth the money.,positive
+246,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300490,600447,Benjamin Shawon,4,Very tasty food . Clean and neat place. Good service also. Will be visiting again. Pure vegetarian food.,positive
+247,100068,Vegetarian restaurant,Green Life Vegetarian Cuisine,4.1,1000,16,300491,600448,Thiagha Rajan,4,Very good atmosphere. Tasty food. Good hospitality.,positive
+249,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300011,600011,Naomi Gunnels,4,Great atmosphere and comfortable cafe. *They struggle with having everything on their menu available~ particularly things that appeal to a Western audience. Their service is slow~ and their customer service can sometimes leave room for  ,positive
+250,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300012,600012,Mike Richardson,5,Commons is part of Hatch~ the premier innovation space in South Asia.  Coffee is delicious~ service is attentive.  Perfect place to recharge to fuel your sprints~ a must visit in Colombo.,positive
+252,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300014,600014,Samith Wijenayake,5,   ,positive
+253,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300015,600015,noelkhan1975,5,Love this place.,positive
+254,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300016,600016,Travel Clicker,5, ,positive
+256,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300018,600018,Liyanage~ Samitha,4,Food was good,positive
+257,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300019,600019,Ashok Udara,5,GOOD PLEASE,positive
+258,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50,300020,600020,Chathurika Ratnasekera,4,Has a beautiful layout. With a very welcoming interior. It's not very crowded. The staff is very friendly and helpful. Food is not as great as with their main branch in flower road. It was kind of dry and didn't have much taste. The sizes  ,positive
+259,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300199,600179,Tharaka Samaraweera,5,Good,positive
+260,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300200,600180,harsha senanayake,5,It's still a bit strange review fast-food franchises~ but they are a thing in Sri Lanka. The Burger King in Colpetty has a nice location~ takeaway~ and bigger burgers by popular demand. They have rice now as well. It's a well-run franchise  ,positive
+261,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300201,600181,Roshan Fernando,4,Another burger king for burger lovers.,positive
+262,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300202,600182,Hari Prasath,4,Very friendly staffs,positive
+263,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300203,600183,Dinithra Dissanayake,5,Good for a quick bite. Excellent food. Not much seating space even though it's never been an issue as far as I know. Good to hang out with a bunch of friends and eat too. Food is good but I guess that goes without saying,positive
+264,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300204,600184,PIXLMIN,5,Very good customer service. AMAZING,positive
+265,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300205,600185,Suneth Nadeeshan,4,Like the ice cream cone. It is very taste and less expensive.,positive
+266,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300206,600186,Yoonus Hussain,2,Not worth the price~ burgers are not soo tasty and in my opinion Macdonald's is way better than burger king,negative
+267,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300207,600187,SSD S,4,Reheated food sometimes,positive
+268,100027,Fast food restaurant,Burger King - Colombo 03,4.1,1000,2145,300208,600188,I'm a cheater,2,It's not like before .. food here is now not much good as before ..,negative
+269,100022,Halal restaurant,Fazly's Halal Refreshment,4.1,1000,3534,300156,600136,Madhu Rathnayaka,2,Not good as previous  ,negative
+270,100022,Halal restaurant,Fazly's Halal Refreshment,4.1,1000,3534,300157,600137,Chanaka Wijeyesinghe,4,Very tasty burger's,positive
+271,100022,Halal restaurant,Fazly's Halal Refreshment,4.1,1000,3534,300158,600138,ruchira perera,5,100/100,positive
+273,100022,Halal restaurant,Fazly's Halal Refreshment,4.1,1000,3534,300160,600140,Vidushan Sameera Thissakumara,5,Lovely place... Superb tasty..,positive
+274,100022,Halal restaurant,Fazly's Halal Refreshment,4.1,1000,3534,300161,600141,Mahdi Nawsath,5,Great place to enjoy food with your family and feiends.,positive
+277,100022,Halal restaurant,Fazly's Halal Refreshment,4.1,1000,3534,300164,600144,Madura Wijeratne,5,Mutton burger ftw!,positive
+279,100031,Restaurant,Burger Hut,4.2,1000,901,300230,600209,himaya,5,I loved their crispy chicken burger. I've only had it once when a friend shared hers with me and then a year later when I got Uber Eats~ this is the first place I ordered from because I was craving it so much. It's really good and they give a side of fries with it too!,positive
+280,100031,Restaurant,Burger Hut,4.2,1000,901,300231,600210,Rifak Ahmed,5,Nice place with great food. Submarines and burgers are hit here,positive
+281,100031,Restaurant,Burger Hut,4.2,1000,901,300232,600211,Shahir Razick,5,The best place for the Chicken Sub~ easily beats the competition hands down. Excellent and fast service not to forget the courteous smiling faces.,positive
+282,100031,Restaurant,Burger Hut,4.2,1000,901,300233,600212,Shaeed Yoonus,5,Very tasty burgers,positive
+283,100031,Restaurant,Burger Hut,4.2,1000,901,300234,600213,Mushfiq Ruzaik,4,Nice and tasty food.......,positive
+284,100031,Restaurant,Burger Hut,4.2,1000,901,300235,600214,Adeesha Perera,5,Burgers are excellent,positive
+285,100031,Restaurant,Burger Hut,4.2,1000,901,300236,600215,Fr Hassan,5,Superb food i would like to rate them 10 stars if i could ....  i thought @dinemore had the best submarines until i tasted burger huts superb submarines.....  awesome food for a very reasonable price    very friendly staff...,positive
+286,100031,Restaurant,Burger Hut,4.2,1000,901,300237,600216,Faizur Farook,5,Food is good  ,positive
+287,100031,Restaurant,Burger Hut,4.2,1000,901,300238,600217,Abirami Velsivananthan,5,Not only burger~ you can also have good pasta and fried rice here  ,positive
+288,100031,Restaurant,Burger Hut,4.2,1000,901,300239,600218,mo naz,5,Nice food,positive
+289,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300443,600401,Isuru Priyanath,4,Tasty foods ~ customer friendly service~price too high,positive
+290,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300444,600402,Christina Francke,5,My first visit to Sri Suriyas Hotel on Sea Street. We had one South Indian meal and one North Indian meal (rice and chapathi!) each. Massive selection and bill total was just Rs.1200 (US$7) It is 100% vegetarian and absolutely delicious and enjoyable.,positive
+291,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300445,600403,mohamed farshad,5,Superb tasty food and clean and little bit expensive but okay   ,positive
+292,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300446,600404,Ameen Hussain,5,OMG~ food was amazing.Highly recommended~ Staff seems to be nice. Good service.,positive
+294,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300448,600406,JAIK,4,Can enjoy a vegetarian lunch,positive
+295,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300449,600407,Chathuranga Kahawatte,5,Food was great. Prices are above average but totally worth the experience. Try the mushroom masala dosai.,positive
+296,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300450,600408,Darshana Anuradha,5,Good vegitarian food and sweets,positive
+297,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300451,600409,Sajith Senevirathna,4,Mushroom 65.     Mushroom spicy dosai.     If you haven't tried~ go go go go~ please go. It's a definite go to for a vegetarian meal once in a while.,positive
+298,100064,Vegetarian restaurant,Sri Suryas Hotel,4.2,1000,1180,300452,600410,Nithakaran Rajalingam,5,Very nice place   for a really good authentic vegetarian meal... they are best in town... clean friendly service tasty food ... all in all can give a thumbs   up yet only issue is parking even though they hire a place in close proximity,positive
+299,100019,Cafe,Bread Talk,4.2,2000,452,300131,600113,Authentic Indian Kitchen,4,Good,positive
+300,100019,Cafe,Bread Talk,4.2,2000,452,300132,600114,Rebecca Peiris,5,Best photographer and Studio,positive
+301,100019,Cafe,Bread Talk,4.2,2000,452,300133,600115,Mohamed Afzal,4,Nice food for breakfast,positive
+302,100019,Cafe,Bread Talk,4.2,2000,452,300134,600116,Mahinthan Velananth,5,Tasty foods,positive
+303,100019,Cafe,Bread Talk,4.2,2000,452,300135,600117,L. L.,5,Nice~ clean little bakery. Nice and helpful staff. I had an egg triangle and a chicken bun. Both was good BUT as a tourist~ you should be aware that it's quite spicey.,positive
+305,100019,Cafe,Bread Talk,4.2,2000,452,300137,600119,Damitha Nalin,1,Really expensive very poor quality food. Expression less cashier . Terrible experience,negative
+306,100019,Cafe,Bread Talk,4.2,2000,452,300138,600120,JR Solutions,5,(Translated by Google) Woow  (Original) Woow,positive
+308,100019,Cafe,Bread Talk,4.2,2000,452,300140,600122,Muditha Pilapitiya,5,Very friendly staff . Yummy food,positive
+309,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300513,600470,Praveen C,5,My fav food shop ~,positive
+310,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300514,600471,Akila Chamikara,4,Good place to have some Indian food,positive
+311,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300515,600472,Isuru Wimalasundera,5,Good indian food.... clean place..,positive
+312,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300516,600473,Darshanie Abeyratne,4,Veriety of vegetarian food.  Tastiest Samosa in town..,positive
+313,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300517,600474,Arvind Shan,4,Food taste good and very neat~ only concern is the chutney they serve is very little,positive
+314,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300518,600475,Hifni Nazeer,1,I am taking back what good I talked about this place. Before lockdown Masala Thosai was Rs. 160 and now it's Rs. 200; Ordinary Thosai was Rs. 40 and it was Rs. 70. It's a spike of Rs. 40 and Rs. 30 respectively. I would say very unfair  ,negative
+316,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300520,600477,Thivantha Harischandra,4,This is a Vegetarian restaurant. Indian food items and Tamil food items are popular here. Range of food items available here. Food is good in quality and also tasty. Place is well maintained too. Inside space is limited. Customer service is  ,positive
+317,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300521,600478,Sivalakshan Ganeshan,5,Tasty foods,positive
+318,100071,Vegetarian restaurant,Sri Sri Bhawan,4.2,500,404,300522,600479,Maurice Perera,5,Good vegetarian food,positive
+319,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300530,600481,Ridha alayad,4,Friendly staff Spacious dining area Typical south Indian food Reasonable parking space Pricing is on the higher end,positive
+320,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300531,600482,Lashane Fernando,5,This is one of my favourite Indian restaurants. Mostly the dessert corner. .when I visit this place I usually tru out the Indian sweets turnout some you'll wont regret it. It's a family safe place with a good service.,positive
+321,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300532,600483,Bimsara Wickramarathne,5,Great place to enjoy Indian vegetarian cuisine in Colombo,positive
+322,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300533,600484,lasanthi Jaya,4,We enjoyed the food very tasty,positive
+323,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300534,600485,Jeremy Thambayah,5,Love the food and the service,positive
+324,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300535,600486,Nitheesram Rajes,5,Well maintained pure vegetarian restaurant in Wellawatte. Highly recommended for family dining and for pure vegetarians. Located little bit far from galle road~ nearby Marine drive. But worth to choose for dining. Expensive but affordable prices.,positive
+325,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300536,600487,Hawana Refai,4, ,positive
+326,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300537,600488,Janitha Medamulla,5,superb place to have original Indian cuisine in sri lanka,positive
+327,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300538,600489,Senthu Bala,5,Best indian vegetarian food in Colombo. Nan rotti~ parotta~ chill parota~ masala dosai are some of the famous foods here. Service really good. Staffs are really friendly.,positive
+328,100073,Vegetarian restaurant,Shanmugas,4.2,1000,2015,300539,600490,Nisha Maheshwaran,5,Best place to have vegi dishes,positive
+329,100005,Cafe,Barista World Trade Center,4.2,1000,282,300041,600041,Abdullah Ahamed,4,Recommended place to grab a quick bite and coffee on...loved the ambience...The view of the serenic galle face beach in an evening sunset is just breath taking... Also the service is pretty cool...staff were very friendly n interactive...quite overpriced tho,positive
+331,100005,Cafe,Barista World Trade Center,4.2,1000,282,300043,600043,Nak Mps,4,Nice,positive
+332,100005,Cafe,Barista World Trade Center,4.2,1000,282,300044,600044,Chanaka Perera,5,Very nice delicious coffee,positive
+333,100005,Cafe,Barista World Trade Center,4.2,1000,282,300045,600045,Magdal na Jochcov ,5,Delicious Italian Lavazza coffee in Colombo in lovely caf  & with great vibe,positive
+334,100005,Cafe,Barista World Trade Center,4.2,1000,282,300046,600046,Max Grev,5,Super nice staff~ and they make very good flat white   ,positive
+335,100005,Cafe,Barista World Trade Center,4.2,1000,282,300047,600047,Shaheem Shukry,5,This place is is good to have a coffee and nice place to relax as well as many office staffs comes to have dine in,positive
+336,100005,Cafe,Barista World Trade Center,4.2,1000,282,300048,600048,Chitrang Apshankar,5,Barista is one the few coffee shops serving good quality coffee in Colombo. This one is inside the World Trade Center and you can take a short break from your work to enjoy coffee and cakes here. They serve good food as well including  ,positive
+337,100005,Cafe,Barista World Trade Center,4.2,1000,282,300049,600049,Raajkumar .Thangarajah,5,Good place to have a good coffee with our friends.,positive
+338,100005,Cafe,Barista World Trade Center,4.2,1000,282,300050,600050,Veranga Dias Wickramanayaka Karunarathna,5,Good place to dine in.clean and quick service.beautiful surrounding.,positive
+339,100078,Vegetarian restaurant,Reality Vegetable Hunter,4.3,1000,6,300562,600513,Isuru Wilegoda,4,Very nice all vegetarian sweet and savory items. Been there twice now and haven't been disappointed. Some of the items are a bit cold so if they sort it out~ then it's all good.,positive
+340,100078,Vegetarian restaurant,Reality Vegetable Hunter,4.3,1000,6,300563,NOOB,Ahmed Sharuvaan,5,,positive
+341,100078,Vegetarian restaurant,Reality Vegetable Hunter,4.3,1000,6,300564,600514,Zafar Ahmed Zia,5,,positive
+343,100078,Vegetarian restaurant,Reality Vegetable Hunter,4.3,1000,6,300566,600515,Raizar Moulana,5,,positive
+344,100078,Vegetarian restaurant,Reality Vegetable Hunter,4.3,1000,6,300567,NOOB,Ibrahin Ibrahim mohamed,4,,positive
+345,100004,Coffee shop,Goodies,4.3,1000,68,300031,600031,Afshan Ali,4,Taste Good,positive
+347,100004,Coffee shop,Goodies,4.3,1000,68,300033,600033,Sujan kavinda,5,Love the food and beverages they provide. Get 50% of between 7pm-9pm,positive
+348,100004,Coffee shop,Goodies,4.3,1000,68,300034,600034,Lorenzo V.,5,This place is the best cosy caf  in Colombo. I love it!,positive
+349,100004,Coffee shop,Goodies,4.3,1000,68,300035,600035,Shahan Pieris,5,Best cakes in town.,positive
+350,100004,Coffee shop,Goodies,4.3,1000,68,300036,600036,Anura Wijesundara,5,Best cakes available in the town,positive
+351,100004,Coffee shop,Goodies,4.3,1000,68,300037,600037,Sahan Perera,5,Delicious cakes~ sweets and savories. Good Service. Highly Recommend.   ,positive
+352,100004,Coffee shop,Goodies,4.3,1000,68,300038,600038,Shani Ranasinghe,4,Tasty cakes,positive
+353,100004,Coffee shop,Goodies,4.3,1000,68,300039,600039,Samindhi Unamboowe,5,They have the best cake.,positive
+354,100004,Coffee shop,Goodies,4.3,1000,68,300040,600040,peter bluck,5,Hotel coffee shop~ in the underground parade~ well priced with a selection of freshly made sandwiches and pastries. Friendly staff,positive
+355,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300293,600265,Shehan Tharaka,5,Good place for once who love ice cream. The place is old fashioned (I love it) but very cheerful and the staff is really helpful. Sometimes overcrowded. Parking is always full. A better place for couples~ friends~ and families.,positive
+356,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300294,600266,Aj Hd,5,Yummy ice cream. The only decent ice cream parlour in Sri Lanka so far with a long history. Thank God they have modernized their menu after many years.,positive
+357,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300295,600267,intikhab salih,4,Sweet and chilly  ice cream... the kids loved it...,positive
+358,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300296,600268,Kavindu Senevirathne,4,Best place for ice cream lovers  ,positive
+359,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300297,600269,Praveen De Silva,4,Best Ice cream in Sri Lanka.. Service could be more efficient.. And should focus more on the cleanliness of the sitting area.. Overall if you are an ice cream fan this is the place to be.. They have very good variants of ice cream to choose  ,positive
+360,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300298,600270,Naweeth Marikkar,5,Ice cream was tasty,positive
+361,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300299,600271,M M G B M Rashad                ,5,Different kinds of flavours available,positive
+362,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300300,600272,mohamed shamil,5,High quality service~ a good variety of flavours to choose from,positive
+363,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300301,600273,Durga Sachithra,4,Do not disappoint~ my favorite is mint chocolate chip,positive
+364,100042,Ice cream shop,Carnival Ice Cream,4.3,1000,4634,300302,600274,Tharindu Wickremasinghe,4,We visit this place often. Ice cream is great and delicious. Only problem is it doesnot have enough parking sometimes. And crowded. Have to wait in long queues. But still worth visiting.,positive
+366,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300065,FALSE,Renuk Basnayake,4,I ordered the peri peri chicken pizza. It was loaded with chicken. We really enjoyed the food and definitely order more.,positive
+367,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300066,FALSE,Rukshan Meegahage,5,Great food and nice vibes.,positive
+368,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300067,600059,D.A.Lasantha Fernando,5,Awesome cafe..,positive
+369,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300068,FALSE,Chilman Jain,5,Amazing cafe!!,positive
+370,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300069,FALSE,Shyan Beekmeyer,5,,positive
+371,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300070,600060,omindu shehan,5,,positive
+373,100009,Cafe,Kaffeine by Republk,4.3,1000,10,300072,FALSE,Christine Lobo,5,,positive
+375,100017,Coffee shop,Expocoffee,4.3,1000,75,300111,600093,Ruwan Dias,5,Just awesome .... arabica coffee is awesome . The owner is very friendly . Best place to get coffee in colombo sri lanka.,positive
+376,100017,Coffee shop,Expocoffee,4.3,1000,75,300112,600094,Sumith Atapattu,5,Good old aroma,positive
+377,100017,Coffee shop,Expocoffee,4.3,1000,75,300113,600095,Heyy World,5,  ,positive
+378,100017,Coffee shop,Expocoffee,4.3,1000,75,300114,600096,Vishwa Aluthge,4,Good Sri Lankan coffee where you can specify your roasting parameters. Also good for ice coffee by the bottle,positive
+379,100017,Coffee shop,Expocoffee,4.3,1000,75,300115,600097,May H ggstr m,4,(Translated by Google) Good coffee In simple clean premises at a reasonable price.  (Original) Bra kaffe I enkla rena lokaler till vettigt pris.,positive
+380,100017,Coffee shop,Expocoffee,4.3,1000,75,300116,600098,Rohana Amarakoon,5,Wide variety of coffee options available here,positive
+381,100017,Coffee shop,Expocoffee,4.3,1000,75,300117,600099,Priyal fernando,5,Very good test with cake and thalaguli,positive
+383,100017,Coffee shop,Expocoffee,4.3,1000,75,300119,600101,Kothalawala Dulana Saman,4,Very good place!,positive
+385,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300393,600351,Life Vlog,4,Decent portion and good ice cream,positive
+386,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300394,600352,Abdul Malik,5,Best ice cream zone and frindly employees..,positive
+387,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300395,600353,nafeez nusri,5,They have some unique flavours. And also light ice-cream. I love it,positive
+388,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300396,600354,Mayuran Gunalasingam,5,I love jolly icecream my personal favorite cinnamon flavor,positive
+389,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300397,600355,mohamed shamil,5,They have some good flavours for a very reasonable rate. Very good quality of service as well.,positive
+390,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300398,600356,Mithun Dilantha Deva-Adithiya,5,One of the best places!,positive
+391,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300399,600357,balasuriya krishantha gayan,2,    ,negative
+392,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300400,600358,Ishar Fernando,5,As always.,positive
+393,100058,Ice cream shop,Jolly's Ice Cream - Marine Drive,4.4,1000,95,300401,600359,Shavindra Fernando,4,Great place and value for money  ice cream.   only disadvantage i see  less parking space,positive
+395,100048,Ice cream shop,Baskin Robbins Crescat,4.4,1000,12,300332,600298,Jewel Craft,1,Not recommended,negative
+396,100048,Ice cream shop,Baskin Robbins Crescat,4.4,1000,12,300333,600299,Rithik,5,Very bad,positive
+397,100048,Ice cream shop,Baskin Robbins Crescat,4.4,1000,12,300334,600300,Tharusha Lekamge,5,Situated in the food mall of the crescat mall~ their ice cream was good. But a bit small for the price. Their premier tastes are great but topping choice was small. Good place for a family gathering with kids or a friends get together.,positive
+398,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300021,600021,Mark Ebert,4,The service by the staff was excellent especially I think the manager who went out of the way to help keep my kid occupied.,positive
+399,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300022,600022,Umar Saibukandu,5,(Translated by Google) The best Teh Tarik!  (Original) The best Teh Tarik!,positive
+400,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300023,600023,Muditha Bandara,5,Friendly staff and great vibe,positive
+401,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300024,600024,Nithakaran Rajalingam,4,Cozy environment~  ambient service ~ nice place to relax   and have a cup of tea ~ only problem how can you serve hot beverages in a hottest environment in the country is a problem... can recommend   to any people who want to have a idle peaceful environment,positive
+402,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300025,600025,Gayantha Samaradiwakara,5,variety of tea types.. love the ambiance too..,positive
+403,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300026,600026,Kasun Sameera,5,Nice ambient and friendly staff. Food is worth the price and tasty.,positive
+404,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300027,600027,Natasha Rajapakse,5,The service and stuff at the Chatham Street branch is just impeccable.  My favorite is the blueberry & pomegranate Ice Tea & the Mutton crepe. The portion is just right and everything is so full of flavor but I go there just because of the outstanding service.,positive
+405,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300028,600028,Waruna Gamlath,5,Tea in different tastes  ,positive
+406,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300029,600029,S. Arabinth,4,Place with a cozy atmosphere with nice lighting. Loved it. Kind of compacted seating area. Prices are average. As I am not a big fan of tea products~ it didn't go good. But the presentation and the cupcake they gave along were awesome. Less  ,positive
+407,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780,300030,600030,K K,5,(Translated by Google) There are few seats. But delicious  (Original)             ,positive
+408,100010,Coffee shop,Barista,4.4,1000,69,300074,600062,Isuru Uvanpriya,5,The best Strawberry Mojito I've ever had! Highly recommended    Friendly service and great place..,positive
+410,100010,Coffee shop,Barista,4.4,1000,69,300076,600064,Don buddika,4,Nice coffee,positive
+411,100010,Coffee shop,Barista,4.4,1000,69,300077,600065,Nicolas Charnay,5,(Translated by Google) Very good bar  (Original) Tr s bon bar,positive
+412,100010,Coffee shop,Barista,4.4,1000,69,300078,600066,Faza Fazy,5,Barista good coffee capachino,positive
+413,100010,Coffee shop,Barista,4.4,1000,69,300079,600067,Charlie Scalliet,5,Very friendly and helpful service,positive
+414,100010,Coffee shop,Barista,4.4,1000,69,300080,600068,Jason Wijesuriya,5,Extremely polite & friendly staff.,positive
+415,100010,Coffee shop,Barista,4.4,1000,69,300081,600069,Dillip Kumar Nanda,5,Good one,positive
+416,100010,Coffee shop,Barista,4.4,1000,69,300082,600070,Lalinda Dias,4,Good place. Placed inside Laksala. Friendly staff and has a dedicated smoking area. Not so crowded. Cons: place is small~ so not suitable for large groups.,positive
+417,100010,Coffee shop,Barista,4.4,1000,69,300083,600071,Chalith Peiris,5,Great customer service   the coffee we had was also great  ,positive
+418,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300166,600146,Sayod Lakshan,4,Best burgers in the town. Worth the money.,positive
+419,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300167,600147,Didulanka Isuru,4,Nice place to have a burger with a scenic view of sunset by beach. Prices are reasonable and the place is moderately good for dine in. They deliver the foods by Uber eats too,positive
+420,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300168,600148,Muditha Katuwawala,4,A good place to get a meal which is tasty and filling. Here you get many varieties of burgers and the prices are decent. Max ~790~ min ~640. The restaurant is within a set of large container crates. They have ample parking.  Downside of  ,positive
+421,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300169,600149,Samitha Wijesundera,5,One of the best places in colombo to get an awesome burger. Everyone should try these super delicious burgers!!! Here you can get a lot of variations of burgers. There are a huge range to choose from and also a lot of juicy and spicy burgers. Vegetarians~ no need to worry~ they have stuff for you guys as well!,positive
+423,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300171,600151,Mohamed Nushan,5,Priced reasonably for what they provide,positive
+424,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300172,600152,Chathura Liyanage,4,Really good burgers (chicken~ beef & vegan)~ resonable prices they have multiple unique burgers. Very nice ocen view from second floor.,positive
+425,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300173,600153,Arshad Saeed,5,Good for burgers,positive
+426,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300174,600154,Milindu Sanoj Kumarage,4,Good tasty burgers for a reasonable price.,positive
+427,100023,Hamburger restaurant,Street Burger,4.4,1000,1876,300175,600155,Rahman,5,   ,positive
+428,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300383,600341,Ashane Gunathilake,1,Drove all the way to moratuwa. Outlet is temporarily closed but not mentioned on the google listing. Drove all the way to the mount Lavina outlet as it s shown on maps. Outlet is still under construction and not open. Please mention THIS ON THE LISTING.,negative
+429,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300384,600342,Suresh Siriwardana,5,The best place to have a great Ice cream... You can try 31 flavours from here....,positive
+430,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300385,600343,Ryan Ridley Cramer,5,Wow! Ordered Banana Split which was shared between me and wife!!! Great!!!,positive
+431,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300386,600344,Madhushi Kavindya,5,Greattt,positive
+432,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300387,600345,Malith Kavinda,5,  ,positive
+433,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300388,600346,Teshan Senaratne,4,Well baskin robbins is baskin robins~ same quality,positive
+435,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300390,600348,VISITHA RUKSHAN,5,Best place to have an ice cream and some beverages,positive
+436,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300391,600349,Vimukthi Mayadunne,5,Regular B and R helpfull staff inside the Kzone moratuwa,positive
+437,100057,Ice cream shop,Baskin Robbins- Moratuwa,4.4,2000,72,300392,600350,umanga anuradha,5,   ,positive
+438,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300403,600361,Isuru Weeraratna,5,Have a good choice of chocolates and snacks at reasonable prices and customer friendly,positive
+439,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300404,600362,Aniz Mustafa,5,"This hidden gem in Mount Lavinia has what I would like to call a ""soul fix"". The placed is stacked with Sour Patch gummies~ Oreos~ chocolates~ nuts and it's probably the only source for caffeine junkies to get the entire range of Nescaf   ",positive
+440,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300405,600363,Mohamed Irshad,5,Affordable price,positive
+441,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300406,600364,Imaam Hussain,4,Its a mini u.a.e product selling super market,positive
+443,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300408,600366,sashintha eshan,4,Friendly owner  with reasonable prices . So many variations of candy are there. Do not know about the quality but best price is there. Uncommon Candy~ Nuts ~ Chocolates and Drinks are there witch not available in regular shops.,positive
+444,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300409,600367,Ahmed Affiq,5,Sweets,positive
+445,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300410,600368,Shakeer Roxz,5,Very  good spot for all types of sweets~candy and chocs..Even cosmetics and arabic perfumes..,positive
+446,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300411,600369,kind_companion Rikaz,4,Have a range of items. But opening times are unreliable.,positive
+447,100059,Candy store,Day To Day Candy Shop,4.4,1000,72,300412,600370,ravi shankar,4,Ok shop,positive
+448,100060,Vegan restaurant,Sriyani,4.4,1000,105,300413,600371,Dimitri Ramaneshwara,5,Taste is good!,positive
+449,100060,Vegan restaurant,Sriyani,4.4,1000,105,300414,600372,thusitha priyangana,5,Excellent place,positive
+450,100060,Vegan restaurant,Sriyani,4.4,1000,105,300415,600373,Udaya Kumara,5, ,positive
+451,100060,Vegan restaurant,Sriyani,4.4,1000,105,300416,600374,Barbara Oliveira,5,Excellent food! the flavour are really good! place is clean and you get a plate with rice and a large variety of curries and side dishes~ all in small quantities but many of them! also if you like a specific one you can ask for more! you  ,positive
+452,100060,Vegan restaurant,Sriyani,4.4,1000,105,300417,600375,Girinarayanan v,1,Worst food and very poor hygiene. Do not  go based on the picture . Not worth.,negative
+453,100060,Vegan restaurant,Sriyani,4.4,1000,105,300418,600376,Thanunjeyan Yohenthiran,5,Good vegetarian Restuarant in Main Street pettah I like their special rice,positive
+454,100060,Vegan restaurant,Sriyani,4.4,1000,105,300419,600377,amila chathuranga,5,(Translated by Google) The food is superb.  (Original)            ..                            .,positive
+455,100060,Vegan restaurant,Sriyani,4.4,1000,105,300420,600378,Reshan Chathuranga,5,I wasn't expecting a place like this in this area..Clean food and affordable price and good service differentiate this place from others.,positive
+456,100060,Vegan restaurant,Sriyani,4.4,1000,105,300421,600379,T M Miktham,5,Super,positive
+457,100060,Vegan restaurant,Sriyani,4.4,1000,105,300422,600380,Kasun Siriwardena,5,Nothing beats the quality of foods there.,positive
+458,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300277,600250,Sayod Lakshan,4,Best burgers in the town. Worth the money.,positive
+459,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300278,600251,Didulanka Isuru,4,Nice place to have a burger with a scenic view of sunset by beach. Prices are reasonable and the place is moderately good for dine in. They deliver the foods by Uber eats too,positive
+460,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300279,600252,Muditha Katuwawala,4,A good place to get a meal which is tasty and filling. Here you get many varieties of burgers and the prices are decent. Max ~790~ min ~640. The restaurant is within a set of large container crates. They have ample parking.  Downside of  ,positive
+461,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300280,600253,Samitha Wijesundera,5,One of the best places in colombo to get an awesome burger. Everyone should try these super delicious burgers!!! Here you can get a lot of variations of burgers. There are a huge range to choose from and also a lot of juicy and spicy burgers. Vegetarians~ no need to worry~ they have stuff for you guys as well!,positive
+463,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300282,600255,Mohamed Nushan,5,Priced reasonably for what they provide,positive
+464,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300283,600256,Chathura Liyanage,4,Really good burgers (chicken~ beef & vegan)~ resonable prices they have multiple unique burgers. Very nice ocen view from second floor.,positive
+465,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300284,600257,Arshad Saeed,5,Good for burgers,positive
+466,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300285,600258,Milindu Sanoj Kumarage,4,Good tasty burgers for a reasonable price.,positive
+467,100038,Hamburger restaurant,Street Burger,4.4,1000,1876,300286,600259,Rahman,5,   ,positive
+468,100024,Hamburger restaurant,Burger House,4.5,1000,19,300176,600156,Baasith Fazil,5,GOOD PEOPLES,positive
+469,100024,Hamburger restaurant,Burger House,4.5,1000,19,300177,600157,janaka wasantha bandara,4,Nice food,positive
+470,100024,Hamburger restaurant,Burger House,4.5,1000,19,300178,600158,Rushan Careem,4,Good Tasty Food!,positive
+471,100012,Cafe,Baguette French Bakery & Cafe,4.5,1000,55,300085,600073,mahesh sudheera,5, ,positive
+472,100012,Cafe,Baguette French Bakery & Cafe,4.5,1000,55,300086,600074,Derek Matthew Auxier Black,4,Great bread and some good items of cheese and cured meats that most grocery stores don't carry that is more directed at the expats.,positive
+473,100012,Cafe,Baguette French Bakery & Cafe,4.5,1000,55,300087,600075,                ,5,Awesome bread~ fantastic quich lorene,positive
+474,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300358,600318,Abdul Hafeel,5,Went to the place with high expectations and was fully satisfied..  eventhough we were late and the place was closed~  the shop owner Ryan was kind enough to let us in and taste there magic.. ! There bombay muttai and honey bee is top notch..,positive
+475,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300359,600319,Holden McGroin,5,Best place to eat ice cream kottu around Colombo. It's situated bit away from the heart of the Colombo~ but it's easily accessible by even public transport since it is situated beside the Galle road.,positive
+476,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300360,600320,Chanaka Lakmal,5,Various collections. Good place.,positive
+477,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300361,600321,Zaidh Ishan,4,Cool place to hang out. The design of the place look so amazing and they have a place where you can write your thoughts on a sticky note and paste it.,positive
+478,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300362,600322,Kosala Liyanage,5,They have a great range of choices so there's something for everyone. Everything tastes great and looks beautiful.,positive
+479,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300363,600323,Shannon Fernando,5,Totally worth it for the price. Not much space for a crowd but a calm and quiet atmosphere,positive
+480,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300364,600324,viraj perera,4,Delicious ice-creams,positive
+481,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300365,600325,Eshan Manusanka,5,Delicious ice rolls. Have many varieties,positive
+482,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300366,600326,Ashfak Ifhan,5,Good place to get some much needed cooling down!,positive
+483,100053,Ice cream shop,Frosty Roll Ice Cream,4.5,1000,270,300367,600327,Imeshi Weerasinghe,1,Absolutely disgusted to see the chocolate syrup bottle being kept in the bathroom!,negative
+484,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300307,600277,Raman Singh,5,Good service~ good icecream. Clean and easy.,positive
+485,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300308,600278,Chirantha Liyanapathirana,5,My one of favorite icecream restaurant ... Grrat service providing here,positive
+486,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300309,600279,Kids Peak,5,Very delicious   natural taste   ,positive
+487,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300310,FALSE,Rizvi Hilaldeen,1,After being served their Vanilla Frappe and a Cheeky Coffee shake~ couple of hours later my wife and I experienced severe vomiting and diaherria. Luckily we were both able to reach out to a doctor quickly and were treated for poisoning. Families with little kids~ please beware~ none has to go through what my wife and I experienced.,negative
+488,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300311,600280,Chirantha Liyanapathirana,5,My one of favorite icecream restaurant ... Grrat service providing here,positive
+489,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300312,FALSE,Charu Craft,5,Best ice cream I ever had... nice place. Customers service need to be improve...,positive
+490,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300313,600281,Raman Singh,5,Good service~ good icecream. Clean and easy.,positive
+491,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300314,600282,Kids Peak,5,Very delicious   natural taste   ,positive
+492,100044,Ice cream shop,Baskin Robbins - One Galle Face,4.5,1000,12,300315,FALSE,Amali Thimbiripola,5,Opening on 8th November,positive
+494,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300552,600503,Dylan Ramanan,5,One of a kind restaurant.Best place for vegans.They specialize in western vegan food.They have a variety of burgers named after vegan /vegetarian celebrities.The owner or the staff there will be willing to explain about the uniqueness and  ,positive
+495,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300553,600504,Manjula Peiris,5,Best vegan restaurant in Colombo. They serve juiciest tasty burgers in town. My favourite is Cyrus(crispy mushroom burger) which they have discontinued  recently . Campbell (omelette) is my second best favourite. Phoenix (bbq tofu) is my  ,positive
+496,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300554,600505,Faye S,5,The best vegan fast food you will find in Colombo - extraordinary tasty vegan cheese too! No matter if you for the burger~ pasta or pizza - you won t be disappointed. I ordered 3 times during my stay and would go back anytime!,positive
+497,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300555,600506,Bankajan Ganthiyalagan,4,Nice,positive
+498,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300556,600507,Li Ha,5,Great pizzas,positive
+499,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300557,600508,Christopher Oliphant,5,Wonderful food. I had a burger and potatoes. Excellent. Friendly staff. Good service. The food is made to order~ be prepared to wait. Good quality brakes a bit of time.,positive
+500,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300558,600509,daksh savla,5,Best vegan food! Loved the place and the hosts!,positive
+501,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300559,600510,Gajanan Hegde,5,Nice little place serving very tasty vegan food. We had burgers~ pizza~ hot chocolate~ ice tea here and all were amazing! Service is very good too!,positive
+502,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300560,600511,Aharon Shmueli,5,(Translated by Google) One of the only places that offers high-quality western vegan food  (Original)                                                        ,positive
+503,100077,Vegan restaurant,The VOV (Vegan Restaurant),4.5,1000,169,300561,600512,Nadeesha Paulis,5,Best vegan food in town. Had the mock meat burger and just melted.    Sooo good. Yet to try their vegan pizza but looking forward to it. Really glad that this place exists to give a chance for vegan food to see the light.,positive
+504,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300453,600411,Dilshan Anandan,5,Loved it!,positive
+505,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300454,600412,Anuradha Wijayakoon,5,Great food. Not a surprise. Friendly staff.,positive
+506,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300455,600413,anusha Kumarapperuma,5,Very good tasty food served in keeping with the current  health requirements. Friendly and helpful staff. You can eat for your hearts content. Good place for foodies who can pocket out a bit! Ambience is very soothing. Ample parking space. Be there by 7 pm for dinner!,positive
+507,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300456,600414,Imesha Samarawickrama,5,Buffet here is just perfect! All the items are made with quality ingredients. It feels like you are in another country when tasting the food. Thai food stall has an amazing soup~ with coconut milk. Feels heavily! Only downside is~ food is  ,positive
+508,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300457,600415,Kalpa Wickramasinghe,5,One of the best places to have great food and chill.,positive
+509,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300458,600416,Roshan Harsha,5,More varieties available at buffet. Since  foods served by hotel staff~ guest cannot select easily what they like more.,positive
+510,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300459,600417,Nadun,5,Great food and service  ,positive
+511,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300460,600418,Yasiru Shehan,5,Highly recommend!  Brilliant,positive
+512,100065,Buffet restaurant,Graze Kitchen,4.6,4000,1767,300461,600419,Imaz Hameed,5,Quality food and efficient service.,positive
+514,100039,Hamburger restaurant,M Burger,4.6,1000,13,300287,600260,Jonathan Indraruban,5,Perfectly sized burgers and so good    Really affordable~ probably some of the best in Colombo,positive
+515,100039,Hamburger restaurant,M Burger,4.6,1000,13,300288,600261,SSD S,5,Good food and great service. Price is affordable.,positive
+516,100039,Hamburger restaurant,M Burger,4.6,1000,13,300289,600262,Ayesha Rishad,5,Very Tasty Yummy and worth Trying    ,positive
+517,100008,Cafe,PSD Welfare shop and House of Juice,4.7,1000,3,300061,600056,Navin Perera,4,Can get fresh juices for a fair price. Variety of juices to choose from (Orange~ Avacado~ Water Melon~ Mango~ Papaya~ Lime~ etc.). Located in Chatham Street in front of the PSD welfare shop and opposite Central Bank Currency History Museum. Good quality (mean thick fruity juice) although cleanliness is the only worry.,positive
+518,100008,Cafe,PSD Welfare shop and House of Juice,4.7,1000,3,300062,600057,Nalaka Wickramasingha Senanayake,5,I've visited this place for juices and grocery items~ law cost any one can enjoy with out harming the pocket.,positive
+519,100008,Cafe,PSD Welfare shop and House of Juice,4.7,1000,3,300063,FALSE,M. N. L. Manoj Kumara,5,Really good place,positive
+520,100037,Hamburger restaurant,Burger Boss,4.7,1000,16,300273,600247,Ruwangika Gunawardana,5,+1 for burgers and beverages!,positive
+521,100037,Hamburger restaurant,Burger Boss,4.7,1000,16,300274,600248,Thisaru Guruge,5,Great burgers!  The Spicy BBQ boss is tasty     Tried the chocolate milkshake~ and it was nice. They have some nice fresh juices as well. The staff is really friendly and supportive.  Pizza is average. Surely not their expertise. But not bad though.,positive
+522,100037,Hamburger restaurant,Burger Boss,4.7,1000,16,300275,600249,Kavish Ranasinghe,5,Good,positive
+523,100020,Cafe,HUF cafe,4.8,1000,5,300141,600123,Sujitha Ramanathan,4,Nice atmosphere of place. Pleasant staff. Fresh juice available. But expensive but worth for money. Recommended.,positive
+524,100020,Cafe,HUF cafe,4.8,1000,5,300142,FALSE,gunananthan karthick,5,Excellent money value Delicious  ,positive
+525,100020,Cafe,HUF cafe,4.8,1000,5,300143,600124,Khn Rzk,5,Delecious with affordable price,positive
+526,100020,Cafe,HUF cafe,4.8,1000,5,300144,600125,Himesh Fernando,5,,positive
+527,100020,Cafe,HUF cafe,4.8,1000,5,300145,FALSE,Faalil,5,,positive
+528,100046,Ice cream shop,CareeBu Rolled Ice Cream,4.8,1000,4,300327,600294,Pure Satori Networks,4,Yummy yummy rolled ice cream! And super fun staff :-),positive
+529,100046,Ice cream shop,CareeBu Rolled Ice Cream,4.8,1000,4,300328,600295,Azar Azmie,5,Awesome taste with pleasure fine smile   perfect ice cream rolls,positive
+530,100046,Ice cream shop,CareeBu Rolled Ice Cream,4.8,1000,4,300329,600296,Mohammed Imran,5,Best rolled ice cream in the town,positive
+531,100046,Ice cream shop,CareeBu Rolled Ice Cream,4.8,1000,4,300330,600297,Shaheem Shukry,5,Worth for money but it's not restaurant and no space to eat it's the way to take away.,positive
+532,100006,Pastry shop,City Talk Pastry Shop,4.8,1000,6,300051,600051,Muaz Usman,5,Quality food for an affordable price. Their Almond Milk Shake is a must try.,positive
+533,100006,Pastry shop,City Talk Pastry Shop,4.8,1000,6,300052,600052,Rifqi,4,,positive
+534,100006,Pastry shop,City Talk Pastry Shop,4.8,1000,6,300053,NOOB,Mohamed Afeef,5,,positive
+535,100006,Pastry shop,City Talk Pastry Shop,4.8,1000,6,300054,NOOB,Moomina Umma,5,,positive
+536,100006,Pastry shop,City Talk Pastry Shop,4.8,1000,6,300055,NOOB,Azra Adeesha,5,,positive
+537,100006,Pastry shop,City Talk Pastry Shop,4.8,1000,6,300056,NOOB,Amanulla Hassan,5,,positive
+538,100013,Coffee store,The Garrison Coffee House,4.8,1000,34,300089,600076,Wuz Good,5,Perfect chill out place,positive
+540,100013,Coffee store,The Garrison Coffee House,4.8,1000,34,300091,600078,Saajidh Borham,4,It is a good place to hangout with your friends and chill... Their menu is somewhat okay... Envirionment is very calm... And there is pool table to play... So everyone can have a good time...,positive
+541,100013,Coffee store,The Garrison Coffee House,4.8,1000,34,300092,600079,Halyna Romanenko,2,I was looking for the coffee shop~ where I can find tasty coffee. Found on google maps this place with great reviews. I ordered latte. First one is the price. The price was 400 rupees in menu~ but guy said that it is not correct and correct  ,negative
+542,100040,Ice cream shop,24/7 Ice Cream,5.0,1000,2,300290,600263,Michael Lu,5,Amazingly good! Was past 1am when we went and the staf there was incredibly friendly and helpful. Great ice cream too.,positive
+543,100040,Ice cream shop,24/7 Ice Cream,5.0,1000,2,300291,FALSE,Gavin Perera,5,Good customer service when I went at 3 in the morning.,positive
+544,100043,Ice cream shop,Frosties,5.0,1000,4,300303,FALSE,kevin de silva,5,the best place to have your rolled ice cream you should try.,positive
+545,100043,Ice cream shop,Frosties,5.0,1000,4,300304,600275,Kasun Silva,5,Great Ice cream had there. Interesting to watch making icecream rolls with skill. Different choices available to choose from. Value for money. You can have nice icecream experience with about 500 rupees. located at the center of the lower  ,positive
+546,100043,Ice cream shop,Frosties,5.0,1000,4,300305,600276,AK Karthikeyan,5, ,positive
+547,100043,Ice cream shop,Frosties,5.0,1000,4,300306,FALSE,Janindu Ranasinghe,5,,positive
+548,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300317,600284,Janitha Jayewardene,5,They serve the best flavours here. My favourite is the Puttalam sea salt and caramel flavoured ice cream   ,positive
+549,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300318,600285,D.A.Lasantha Fernando,5,  ,positive
+550,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300319,600286,Jaswinder Singh Bajaj,5,Mint and chocolate mixed solid,positive
+551,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300320,600287,Carlo Muriyon,5,Tried the dark chocolate and the salted caramel ice creams both of which were delicious. A bit on the pricier side but a must try nonetheless.,positive
+552,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300321,600288,stef decenciere,5,Really amazing ice creams. Delicious,positive
+553,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300322,600289,Kalani Pananwala,5,I tried the coffee flavored gelato and it was the best ever I've tried. It's a bit high end but should definitely try   ,positive
+554,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300323,600290,Janet van Aswegen,5,You could be in Italy! This has to be the best gelato in Sri Lanka. I love the caramel salt~ peanut butter crunch and strawberry. In fact I bet they're all fabulous.,positive
+555,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300324,600291,Ramindu Liyanage,5,Try out the butterscotch variant Even one scoop is more than adequate to soothe your sweet tooth!!!,positive
+556,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300325,600292,Janitha Jayewardene,5,They serve the best flavours here. My favourite is the Puttalam sea salt and caramel flavoured ice cream   ,positive
+557,100045,Ice cream shop,Isle Of gelato,5.0,1000,16,300326,600293,Kalani Pananwala,5,I tried the coffee flavored gelato and it was the best ever I've tried. It's a bit high end but should definitely try   ,positive
+558,100047,Ice cream shop,FROsties~ OneGalle,5.0,1000,1,300331,FALSE,Tyler Perera,5,,positive

@@ -1,0 +1,126 @@
+,SHOP_ID,CATEGORY,NAME_x,RATING,AVG_PRICE,REVIEW_COUNT,REVIEW_ID,LOCAL_GUIDE,NAME_y,REVIEW_STARS,REVIEW,sentiment,sentimentt
+0,100014,Cafe,Balindo Cafe,3.5,1000,4.0,300094,FALSE,Jade Senaratne,2,Its not a fancy location~ but it is a good place to catch a quick bite.,-1,negative
+1,100014,Cafe,Balindo Cafe,3.5,1000,4.0,300095,FALSE,MassSpreadz David,5,Good Place,1,positive
+3,100014,Cafe,Balindo Cafe,3.5,1000,4.0,300097,600080,Jeewaka Hettige,4,,1,positive
+4,100007,Coffee shop,The Coffee Bean Tea Leaf,3.8,1000,9.0,300057,600053,Nidhya Logeswaran,1,visited the one Galle face branch which has an offer displayed saying Buy one get one free. asked the staff what was on offer. they said if I but a cappuccino or latte~ I get a chocolate fudge slice at 50% off. I asked what was free then.  ,-1,negative
+5,100007,Coffee shop,The Coffee Bean Tea Leaf,3.8,1000,9.0,300058,600054,bassith mahmood,4,The coffee was good~ a bit sweeter than other stores. Good service.,1,positive
+6,100007,Coffee shop,The Coffee Bean Tea Leaf,3.8,1000,9.0,300059,600055,Hunters Photography,5,Superb place    Delicious foods  ,1,positive
+8,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300122,600104,vinuchithra chithrasena,5,Great place for a quick snack and coffee,1,positive
+9,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300123,600105,Noel shamith,5,Best at Cakes  ,1,positive
+10,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300124,600106,Mewantha Wijerathne,5,Best place to visit,1,positive
+11,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300125,600107,Mohamed Mafaz,5,Fresh buns and short eats available~ cakes are very reasonable price.,1,positive
+12,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300126,600108,Yusry Al Ayad,5,Good,1,positive
+13,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300127,600109,rushika desilva,4,Expensive in unwanted way,1,positive
+14,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300128,600110,Fahadh Nazir,4,Fresh cakes,1,positive
+15,100018,Cafe,Everyday Bakery And Cafe,3.9,500,45.0,300129,600111,kind_companion Rikaz,2,Not a comfortable place,-1,negative
+17,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300098,600081,hadi hussain,4,very nice and beautiful place~ variety of tea~ coffee and snakes available. You can choose to have a seat inside the air conditioned hall or outside. Atmosphere is very good staff is very cooprative~ you can buy tea and coffe for your friends in paper bags and in tin containers.,1,positive
+18,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300099,600082,Mohamed Afsal,5,Maldivian coffee shop,1,positive
+19,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300100,600083,Wuz Good,4,Nice place to chill with a bunch of friends~  needs more upgrading though,1,positive
+20,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300101,600084,Abdullah Jamaal,2,Coffee & Tea with hedika,-1,negative
+21,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300102,600085,Mr. Ahmed Sharaah,4,Was fond of this place,1,positive
+22,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300103,600086,Ismail Shifau,5,Nice place to have a cup of coffee,1,positive
+23,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300104,600087,mohamed naveel,5,Good for coffee  ,1,positive
+24,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300105,600088,Ahmed Rasheed,4,Good place for Coffee.,1,positive
+25,100015,Cafe,Coffee And Tea Cafe,4.0,1000,47.0,300106,600089,Ina Malik,2,Maldivian cafe in Dhehivela. Hedhika & lavazza coffee,-1,negative
+27,100011,Coffee shop,Colombus cafe,4.0,1000,1.0,300084,600072,ibrahim shareef,4,,1,positive
+28,100035,Cafe,Burgers Hut,4.1,1000,428.0,300263,600237,Dulitha chiran,5,One of the best place to try burgers late night.  They only have pepsi and 7up for beverages.  But they had plenty of burger range.  Parking and dinning area available. Highly recommended for burger lovers.  Tip - Chicken Corden Bleu Burger,1,positive
+29,100035,Cafe,Burgers Hut,4.1,1000,428.0,300264,600238,Dinusha Pathirana,5,Cheap and great food,1,positive
+31,100035,Cafe,Burgers Hut,4.1,1000,428.0,300266,600240,Mohinudeen Bin Mohammad,5,Taste good,1,positive
+32,100035,Cafe,Burgers Hut,4.1,1000,428.0,300267,600241,Chanaka Weragoda,5,Delicious and fast cheap burgers and subs.,1,positive
+33,100035,Cafe,Burgers Hut,4.1,1000,428.0,300268,600242,Mohammed Rifaideen,4,If you wish to enjoy chicken shawarma~ Burgers Hut is best choice for delicious shawarma. Price is reasonable and the staffs were so friendly.,1,positive
+34,100035,Cafe,Burgers Hut,4.1,1000,428.0,300269,600243,Mohamed Naleem,4,Good halal shop for fast food lovers. The food we bought here were very tasty. Shop could be a bit more bigger,1,positive
+35,100035,Cafe,Burgers Hut,4.1,1000,428.0,300270,600244,Zameer Hussain Padmi,5,Yummy,1,positive
+36,100035,Cafe,Burgers Hut,4.1,1000,428.0,300271,600245,Rameez Basheer,2,Not bad and not good,-1,negative
+37,100035,Cafe,Burgers Hut,4.1,1000,428.0,300272,600246,Terry Ringleader,5,Tasty foods,1,positive
+38,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300001,600001,azam hamza,4,But over pricy,1,positive
+39,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300002,600002,Dimas Prihadi,5,Always love Java Lounge,1,positive
+40,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300003,600003,Udi Keidar,1,Bad service~ dissapointing coffee and good. Not recommended!!!!,-1,negative
+41,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300004,600004,Charmi Lankeshwari,5,Lovely strawberry cheesecake... N had alot of stuff to eat and take home. Great place to hangout and chill with a friend,1,positive
+42,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300005,600005,menaka Indunil,5,Grate place to have a refreshment,1,positive
+43,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300006,600006,Amjad Nazeer,5,Great coffee.,1,positive
+44,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300007,600007,Viktoriia,4,Cold latte was very good and I enjoyed club sandwiches as well. Brownie cake wasn't fresh though~ so it spoiled the mood a bit.  Staff is very attentive and helpful~ bit prices are higher than I expected. All in all it's a nice coffee shop not far from Colombo railway station.,1,positive
+45,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300008,600008,Nuwair Nishaam,5,Great place to chill and relax with some good coffee and food,1,positive
+46,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300009,600009,Kanchana Wijesinghe,5,Best place for coffee in Fort. Love the ambiance and the food,1,positive
+47,100001,Coffee shop,Java Lounge - Fort - Sri Lanka's Largest Coffee House Chain,4.1,1000,245.0,300010,600010,VINOD LAKSHAN,5,Great place to be with loved ones! Love the place!,1,positive
+48,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300011,600011,Naomi Gunnels,4,Great atmosphere and comfortable cafe. *They struggle with having everything on their menu available~ particularly things that appeal to a Western audience. Their service is slow~ and their customer service can sometimes leave room for  ,1,positive
+49,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300012,600012,Mike Richardson,5,Commons is part of Hatch~ the premier innovation space in South Asia.  Coffee is delicious~ service is attentive.  Perfect place to recharge to fuel your sprints~ a must visit in Colombo.,1,positive
+51,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300014,600014,Samith Wijenayake,5,   ,1,positive
+52,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300015,600015,noelkhan1975,5,Love this place.,1,positive
+53,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300016,600016,Travel Clicker,5, ,1,positive
+55,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300018,600018,Liyanage~ Samitha,4,Food was good,1,positive
+56,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300019,600019,Ashok Udara,5,GOOD PLEASE,1,positive
+57,100002,Cafe,The Commons Coffee House at Hatch,4.1,1000,50.0,300020,600020,Chathurika Ratnasekera,4,Has a beautiful layout. With a very welcoming interior. It's not very crowded. The staff is very friendly and helpful. Food is not as great as with their main branch in flower road. It was kind of dry and didn't have much taste. The sizes  ,1,positive
+58,100019,Cafe,Bread Talk,4.2,2000,452.0,300131,600113,Authentic Indian Kitchen,4,Good,1,positive
+59,100019,Cafe,Bread Talk,4.2,2000,452.0,300132,600114,Rebecca Peiris,5,Best photographer and Studio,1,positive
+60,100019,Cafe,Bread Talk,4.2,2000,452.0,300133,600115,Mohamed Afzal,4,Nice food for breakfast,1,positive
+61,100019,Cafe,Bread Talk,4.2,2000,452.0,300134,600116,Mahinthan Velananth,5,Tasty foods,1,positive
+62,100019,Cafe,Bread Talk,4.2,2000,452.0,300135,600117,L. L.,5,Nice~ clean little bakery. Nice and helpful staff. I had an egg triangle and a chicken bun. Both was good BUT as a tourist~ you should be aware that it's quite spicey.,1,positive
+64,100019,Cafe,Bread Talk,4.2,2000,452.0,300137,600119,Damitha Nalin,1,Really expensive very poor quality food. Expression less cashier . Terrible experience,-1,negative
+65,100019,Cafe,Bread Talk,4.2,2000,452.0,300138,600120,JR Solutions,5,(Translated by Google) Woow  (Original) Woow,1,positive
+67,100019,Cafe,Bread Talk,4.2,2000,452.0,300140,600122,Muditha Pilapitiya,5,Very friendly staff . Yummy food,1,positive
+68,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300041,600041,Abdullah Ahamed,4,Recommended place to grab a quick bite and coffee on...loved the ambience...The view of the serenic galle face beach in an evening sunset is just breath taking... Also the service is pretty cool...staff were very friendly n interactive...quite overpriced tho,1,positive
+70,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300043,600043,Nak Mps,4,Nice,1,positive
+71,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300044,600044,Chanaka Perera,5,Very nice delicious coffee,1,positive
+72,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300045,600045,Magdal na Jochcov ,5,Delicious Italian Lavazza coffee in Colombo in lovely caf  & with great vibe,1,positive
+73,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300046,600046,Max Grev,5,Super nice staff~ and they make very good flat white   ,1,positive
+74,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300047,600047,Shaheem Shukry,5,This place is is good to have a coffee and nice place to relax as well as many office staffs comes to have dine in,1,positive
+75,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300048,600048,Chitrang Apshankar,5,Barista is one the few coffee shops serving good quality coffee in Colombo. This one is inside the World Trade Center and you can take a short break from your work to enjoy coffee and cakes here. They serve good food as well including  ,1,positive
+76,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300049,600049,Raajkumar .Thangarajah,5,Good place to have a good coffee with our friends.,1,positive
+77,100005,Cafe,Barista World Trade Center,4.2,1000,282.0,300050,600050,Veranga Dias Wickramanayaka Karunarathna,5,Good place to dine in.clean and quick service.beautiful surrounding.,1,positive
+78,100004,Coffee shop,Goodies,4.3,1000,68.0,300031,600031,Afshan Ali,4,Taste Good,1,positive
+80,100004,Coffee shop,Goodies,4.3,1000,68.0,300033,600033,Sujan kavinda,5,Love the food and beverages they provide. Get 50% of between 7pm-9pm,1,positive
+81,100004,Coffee shop,Goodies,4.3,1000,68.0,300034,600034,Lorenzo V.,5,This place is the best cosy caf  in Colombo. I love it!,1,positive
+82,100004,Coffee shop,Goodies,4.3,1000,68.0,300035,600035,Shahan Pieris,5,Best cakes in town.,1,positive
+83,100004,Coffee shop,Goodies,4.3,1000,68.0,300036,600036,Anura Wijesundara,5,Best cakes available in the town,1,positive
+84,100004,Coffee shop,Goodies,4.3,1000,68.0,300037,600037,Sahan Perera,5,Delicious cakes~ sweets and savories. Good Service. Highly Recommend.   ,1,positive
+85,100004,Coffee shop,Goodies,4.3,1000,68.0,300038,600038,Shani Ranasinghe,4,Tasty cakes,1,positive
+86,100004,Coffee shop,Goodies,4.3,1000,68.0,300039,600039,Samindhi Unamboowe,5,They have the best cake.,1,positive
+87,100004,Coffee shop,Goodies,4.3,1000,68.0,300040,600040,peter bluck,5,Hotel coffee shop~ in the underground parade~ well priced with a selection of freshly made sandwiches and pastries. Friendly staff,1,positive
+89,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300065,FALSE,Renuk Basnayake,4,I ordered the peri peri chicken pizza. It was loaded with chicken. We really enjoyed the food and definitely order more.,1,positive
+90,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300066,FALSE,Rukshan Meegahage,5,Great food and nice vibes.,1,positive
+91,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300067,600059,D.A.Lasantha Fernando,5,Awesome cafe..,1,positive
+92,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300068,FALSE,Chilman Jain,5,Amazing cafe!!,1,positive
+93,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300069,FALSE,Shyan Beekmeyer,5,,1,positive
+94,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300070,600060,omindu shehan,5,,1,positive
+96,100009,Cafe,Kaffeine by Republk,4.3,1000,10.0,300072,FALSE,Christine Lobo,5,,1,positive
+98,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300111,600093,Ruwan Dias,5,Just awesome .... arabica coffee is awesome . The owner is very friendly . Best place to get coffee in colombo sri lanka.,1,positive
+99,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300112,600094,Sumith Atapattu,5,Good old aroma,1,positive
+100,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300113,600095,Heyy World,5,  ,1,positive
+101,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300114,600096,Vishwa Aluthge,4,Good Sri Lankan coffee where you can specify your roasting parameters. Also good for ice coffee by the bottle,1,positive
+102,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300115,600097,May H ggstr m,4,(Translated by Google) Good coffee In simple clean premises at a reasonable price.  (Original) Bra kaffe I enkla rena lokaler till vettigt pris.,1,positive
+103,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300116,600098,Rohana Amarakoon,5,Wide variety of coffee options available here,1,positive
+104,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300117,600099,Priyal fernando,5,Very good test with cake and thalaguli,1,positive
+106,100017,Coffee shop,Expocoffee,4.3,1000,75.0,300119,600101,Kothalawala Dulana Saman,4,Very good place!,1,positive
+108,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300021,600021,Mark Ebert,4,The service by the staff was excellent especially I think the manager who went out of the way to help keep my kid occupied.,1,positive
+109,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300022,600022,Umar Saibukandu,5,(Translated by Google) The best Teh Tarik!  (Original) The best Teh Tarik!,1,positive
+110,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300023,600023,Muditha Bandara,5,Friendly staff and great vibe,1,positive
+111,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300024,600024,Nithakaran Rajalingam,4,Cozy environment~  ambient service ~ nice place to relax   and have a cup of tea ~ only problem how can you serve hot beverages in a hottest environment in the country is a problem... can recommend   to any people who want to have a idle peaceful environment,1,positive
+112,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300025,600025,Gayantha Samaradiwakara,5,variety of tea types.. love the ambiance too..,1,positive
+113,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300026,600026,Kasun Sameera,5,Nice ambient and friendly staff. Food is worth the price and tasty.,1,positive
+114,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300027,600027,Natasha Rajapakse,5,The service and stuff at the Chatham Street branch is just impeccable.  My favorite is the blueberry & pomegranate Ice Tea & the Mutton crepe. The portion is just right and everything is so full of flavor but I go there just because of the outstanding service.,1,positive
+115,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300028,600028,Waruna Gamlath,5,Tea in different tastes  ,1,positive
+116,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300029,600029,S. Arabinth,4,Place with a cozy atmosphere with nice lighting. Loved it. Kind of compacted seating area. Prices are average. As I am not a big fan of tea products~ it didn't go good. But the presentation and the cupcake they gave along were awesome. Less  ,1,positive
+117,100003,Cafe,The t-Lounge by Dilmah,4.4,1000,780.0,300030,600030,K K,5,(Translated by Google) There are few seats. But delicious  (Original)             ,1,positive
+118,100010,Coffee shop,Barista,4.4,1000,69.0,300074,600062,Isuru Uvanpriya,5,The best Strawberry Mojito I've ever had! Highly recommended    Friendly service and great place..,1,positive
+120,100010,Coffee shop,Barista,4.4,1000,69.0,300076,600064,Don buddika,4,Nice coffee,1,positive
+121,100010,Coffee shop,Barista,4.4,1000,69.0,300077,600065,Nicolas Charnay,5,(Translated by Google) Very good bar  (Original) Tr s bon bar,1,positive
+122,100010,Coffee shop,Barista,4.4,1000,69.0,300078,600066,Faza Fazy,5,Barista good coffee capachino,1,positive
+123,100010,Coffee shop,Barista,4.4,1000,69.0,300079,600067,Charlie Scalliet,5,Very friendly and helpful service,1,positive
+124,100010,Coffee shop,Barista,4.4,1000,69.0,300080,600068,Jason Wijesuriya,5,Extremely polite & friendly staff.,1,positive
+125,100010,Coffee shop,Barista,4.4,1000,69.0,300081,600069,Dillip Kumar Nanda,5,Good one,1,positive
+126,100010,Coffee shop,Barista,4.4,1000,69.0,300082,600070,Lalinda Dias,4,Good place. Placed inside Laksala. Friendly staff and has a dedicated smoking area. Not so crowded. Cons: place is small~ so not suitable for large groups.,1,positive
+127,100010,Coffee shop,Barista,4.4,1000,69.0,300083,600071,Chalith Peiris,5,Great customer service   the coffee we had was also great  ,1,positive
+128,100012,Cafe,Baguette French Bakery & Cafe,4.5,1000,55.0,300085,600073,mahesh sudheera,5, ,1,positive
+129,100012,Cafe,Baguette French Bakery & Cafe,4.5,1000,55.0,300086,600074,Derek Matthew Auxier Black,4,Great bread and some good items of cheese and cured meats that most grocery stores don't carry that is more directed at the expats.,1,positive
+130,100012,Cafe,Baguette French Bakery & Cafe,4.5,1000,55.0,300087,600075,                ,5,Awesome bread~ fantastic quich lorene,1,positive
+131,100008,Cafe,PSD Welfare shop and House of Juice,4.7,1000,3.0,300061,600056,Navin Perera,4,Can get fresh juices for a fair price. Variety of juices to choose from (Orange~ Avacado~ Water Melon~ Mango~ Papaya~ Lime~ etc.). Located in Chatham Street in front of the PSD welfare shop and opposite Central Bank Currency History Museum. Good quality (mean thick fruity juice) although cleanliness is the only worry.,1,positive
+132,100008,Cafe,PSD Welfare shop and House of Juice,4.7,1000,3.0,300062,600057,Nalaka Wickramasingha Senanayake,5,I've visited this place for juices and grocery items~ law cost any one can enjoy with out harming the pocket.,1,positive
+133,100008,Cafe,PSD Welfare shop and House of Juice,4.7,1000,3.0,300063,FALSE,M. N. L. Manoj Kumara,5,Really good place,1,positive
+134,100020,Cafe,HUF cafe,4.8,1000,5.0,300141,600123,Sujitha Ramanathan,4,Nice atmosphere of place. Pleasant staff. Fresh juice available. But expensive but worth for money. Recommended.,1,positive
+135,100020,Cafe,HUF cafe,4.8,1000,5.0,300142,FALSE,gunananthan karthick,5,Excellent money value Delicious  ,1,positive
+136,100020,Cafe,HUF cafe,4.8,1000,5.0,300143,600124,Khn Rzk,5,Delecious with affordable price,1,positive
+137,100020,Cafe,HUF cafe,4.8,1000,5.0,300144,600125,Himesh Fernando,5,,1,positive
+138,100020,Cafe,HUF cafe,4.8,1000,5.0,300145,FALSE,Faalil,5,,1,positive
+139,100013,Coffee store,The Garrison Coffee House,4.8,1000,34.0,300089,600076,Wuz Good,5,Perfect chill out place,1,positive
+141,100013,Coffee store,The Garrison Coffee House,4.8,1000,34.0,300091,600078,Saajidh Borham,4,It is a good place to hangout with your friends and chill... Their menu is somewhat okay... Envirionment is very calm... And there is pool table to play... So everyone can have a good time...,1,positive
+142,100013,Coffee store,The Garrison Coffee House,4.8,1000,34.0,300092,600079,Halyna Romanenko,2,I was looking for the coffee shop~ where I can find tasty coffee. Found on google maps this place with great reviews. I ordered latte. First one is the price. The price was 400 rupees in menu~ but guy said that it is not correct and correct  ,-1,negative
